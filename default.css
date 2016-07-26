@@ -1,0 +1,19 @@
+body {
+  font-family: calibri, sans-serif;
+}
+code {
+  font-family: 'Source Code Pro', 'Courier New';
+  font-size: 13px;
+  color: #4444bb;
+}
+em {
+  color: #000000;
+  font-weight: bold;
+}
+
+#header {
+  padding-left: 3em
+}
+.highlight {
+  background-color: yellow;
+}
