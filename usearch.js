@@ -1,3 +1,8 @@
+/**
+ Fulltext search for Uberwiki.
+ 
+ */
+
 var path = require("path"),
     fs = require("fs")
 
